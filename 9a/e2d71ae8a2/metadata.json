@@ -1,0 +1,26 @@
+{
+  "cli_version": "v0.3.13-35-g385d6cfe",
+  "checkpoint_id": "9ae2d71ae8a2",
+  "strategy": "manual-commit",
+  "branch": "soph/testing-contribution",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "random_number.rb"
+  ],
+  "sessions": [
+    {
+      "metadata": "/9a/e2d71ae8a2/0/metadata.json",
+      "transcript": "/9a/e2d71ae8a2/0/full.jsonl",
+      "context": "/9a/e2d71ae8a2/0/context.md",
+      "content_hash": "/9a/e2d71ae8a2/0/content_hash.txt",
+      "prompt": "/9a/e2d71ae8a2/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 6,
+    "cache_creation_tokens": 35692,
+    "cache_read_tokens": 105904,
+    "output_tokens": 63,
+    "api_call_count": 4
+  }
+}
